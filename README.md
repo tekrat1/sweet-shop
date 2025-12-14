@@ -142,22 +142,22 @@ pytest
 ## 📸 Screenshots
 
 ### 🔐 Swagger UI – Protected Endpoint (Admin)
-![Swagger Auth](screenshots/swagger-auth.png)
+![Swagger Auth](./screenshots/swagger-auth.png)
 
 ### 📘 Swagger API Overview
-![Swagger Endpoints](screenshots/swagger-endpoints.png)
+![Swagger Endpoints](./screenshots/swagger-endpoints.png)
 
 ### 🔑 JWT Token Decoded in Browser Console
-![JWT Console](screenshots/jwt-console.png)
+![JWT Console](./screenshots/jwt-console.png)
 
 ### 🛠 Admin Dashboard (Add / Update / Delete Sweet)
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ### 🍬 Sweet List (Frontend User View)
-![Sweet List](screenshots/sweet-list.png)
+![Sweet List](./screenshots/sweet-list.png)
 
 ### 🧾 Backend Logs (API Activity)
-![Backend Logs](screenshots/backend-logs.png)
+![Backend Logs](./screenshots/backend-logs.png)
 
 ---
 
