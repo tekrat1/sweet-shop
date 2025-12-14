@@ -169,6 +169,8 @@ ChatGPT was used during development to:
 - Debug authentication and frontend-backend integration
 - Assist in writing documentation and README
 
+Note: AI assistance was primarily used during early backend scaffolding and architectural decisions. Subsequent documentation and UI changes were done manually.
+
 All code was manually reviewed, tested, and validated by the developer.
 
 ---
