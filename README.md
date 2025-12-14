@@ -147,6 +147,21 @@ pytest
 ```
 
 ---
+## 🧾 Test Report
+
+The backend test suite was executed using **pytest**.
+
+- Total tests: 5
+- Test areas covered:
+  - Authentication (register/login)
+  - Sweet CRUD operations
+  - Inventory purchase and restock logic
+- Result: ✅ All tests passed successfully
+
+The screenshot below shows the successful execution of the test suite:
+
+![Test Report](./screenshots/test-report.png)
+
 
 ## 📸 Screenshots
 
