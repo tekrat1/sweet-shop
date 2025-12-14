@@ -129,7 +129,16 @@ Example decoded payload:
 ```
 
 ---
+## 🧪 Test-Driven Development (TDD)
 
+The backend of this application was developed using a test-first mindset for core business logic such as authentication, sweets management, and inventory workflows.
+
+For critical features, tests were written early to define expected behavior, validate edge cases, and enforce authorization rules. These tests guided the implementation and helped ensure correctness and stability.
+
+While not every feature strictly follows a visible red–green–refactor commit sequence, the presence of meaningful test coverage reflects the principles of Test-Driven Development and supports safe refactoring and regression prevention.
+
+
+---
 ## 🧪 Running Tests
 
 ```bash
@@ -159,7 +168,9 @@ pytest
 ### 🧾 Backend Logs (API Activity)
 ![Backend Logs](./screenshots/backend-logs.png)
 
----
+### 🧪 Test Report (Pytest Results)
+![Test Report](./screenshots/test-report.png)
+
 
 ## 🤖 AI Usage Disclosure
 
